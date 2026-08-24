@@ -1,0 +1,13 @@
+pandas>=2.0,<3
+numpy>=1.24,<3
+scikit-learn>=1.3,<2
+requests>=2.31,<3
+pydantic>=2.0,<3
+streamlit>=1.30,<2
+altair>=5.0,<6
+joblib>=1.3,<2
+pytest>=7.0
+matplotlib>=3.6,<4
+python-docx>=1.0,<2
+ddgs>=6.0            # DuckDuckGo web search for external.py (no API key needed)
+streamlit-aggrid>=1.2.1

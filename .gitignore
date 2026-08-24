@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+# data / outputs are omitted from this public repo (real company data)
+code/data/
+code/outputs/
+ranked_output.csv
+*.docx
+*.log
