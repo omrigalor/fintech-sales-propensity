@@ -1,4 +1,4 @@
-# GTM Target Scoring & Ranking
+# Fintech Sales Propensity
 
 A go-to-market target-scoring system that turns a large, messy, enriched list of ~2,000
 companies into a **ranked view of who to pursue and why**, delivered as a lightweight local
